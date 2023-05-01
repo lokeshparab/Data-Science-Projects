@@ -1,2 +1,0 @@
-category: Security Cameraslink    : https://www.amazon.in/s?rh=n%3A1389203031&fs=true&page=302&qid=1678609832.0
-list index out of range
